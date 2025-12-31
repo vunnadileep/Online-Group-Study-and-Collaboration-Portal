@@ -2,7 +2,7 @@
 
 A full-stack MERN application for students to collaborate, share resources, chat in real-time, and create study groups.
 
-///mongodb+srv://ladi60143:Santosh123@cluster0.2kudmcu.mongodb.net/student-collaboration?retryWrites=true&w=majority&appName=Cluster0
+///mongodb+srv://Dileep:Dileep20@cluster0.2kudmcu.mongodb.net/student-collaboration?retryWrites=true&w=majority&appName=Cluster0
 
 ## Features
 
