@@ -239,8 +239,8 @@ If you encounter any issues:
 
 ## Developer
 
-Created by: Santosh
-Email: santuabc123@gmail.com
+Created by: Dileep
+Email: dileepvunna@gmail.com
 
 ---
 
